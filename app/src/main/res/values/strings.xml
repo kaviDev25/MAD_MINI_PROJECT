@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Bill Tracker</string>
+    <string name="head">Personal Bills</string>
+    <!-- Add Bill Layout Under Add Bill Tab -->
+    <string name="title">Add Bill</string>
+    <string name="Category">Bill Category</string>
+    <string name="Amount">RS</string>
+    <string name="DueDate">Due Date</string>
+    <string name="category1">ex : Water Bill</string>
+    <string name="Amount1">Amount</string>
+    <string name="btn1">ADD BILL</string>
+
+    <!-- view bill under Pending tab -->
+    <string name="line1">Water Bill</string>
+    <string name="line2">Aug 10</string>
+    <string name="line1_1">Credit Card</string>
+    <string name="line2_1">Aug 24</string>
+    <string name="PriceView">RS.20,000</string>
+    <string name="btn2">Update</string>
+    <string name="btn3">Delete</string>
+    <string name="btn4">Payment Status</string>
+
+    <!-- Bill Status Form -->
+    <string name = "totalBill">Total Bill</string>
+    <string name = "paidAmount">Paid Amount</string>
+    <string name = "totalBillAmt">RS. 20,000</string>
+    <string name = "save">Save</string>
+
+    <!-- Home Page -->
+    <string name = "AppName">Mobills Tracker</string>
+    <string name="title1">Business Bills</string>
+    <string name="title2">Personal Bills</string>
+    <string name="title3">Incomes</string>
+    <string name="title4">Budget</string>
+</resources>
