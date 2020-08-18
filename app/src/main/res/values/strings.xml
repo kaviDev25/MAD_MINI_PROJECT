@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Business Bills</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Bill Tracker</string>
+    <string name="nav_header_subtitle">Menu</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+`
+    <string name="menu_BusinessBills">Business Bills</string>
+    <string name="menu_PersonalBills">Personal Bills</string>
+    <string name="menu_Budget">Budget</string>
+</resources>
